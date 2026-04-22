@@ -35,13 +35,12 @@ It helps businesses collect, track and improve Google reviews through QR codes, 
 - Website: [mkdaagency.com/reviewboost](https://mkdaagency.com/reviewboost)
 - Demo: [mkda-reviewboost.vercel.app/demo](https://mkda-reviewboost.vercel.app/demo)
 
-## Screenshots
+## Preview
 
-Add product screenshots here to show:
-- dashboard overview
-- QR and link tracking
-- admin area
-- client analytics
+### Dashboard overview
+![ReviewBoost Dashboard_1](assets/demo_1.png)
+![ReviewBoost Dashboard_2](assets/demo_2.png)
+![ReviewBoost Dashboard_3](assets/demo_3.png)
 
 ## Built by MKDA
 
