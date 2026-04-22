@@ -1,18 +1,24 @@
 # ReviewBoost
 
-ReviewBoost is a review management platform built by MKDA Digital Marketing Agency.
+ReviewBoost is a review management platform by MKDA Digital Marketing Agency.
 
-It helps businesses collect, track and improve Google reviews through QR codes, smart links and a simple analytics dashboard.
+It helps businesses collect, track and improve Google reviews through QR codes, smart links and a focused analytics dashboard.
 
-## What it does
+## Overview
+
+Most businesses ask for reviews without knowing which channel is working, where traffic comes from or how users reach the review page.
+
+ReviewBoost turns that process into something measurable and easier to manage.
+
+## Core features
 
 - Generate QR codes and tracked links
-- Send customers to the correct Google review page
+- Send customers to the right Google review page
 - Track scans, clicks and traffic sources
-- Monitor review activity from one dashboard
+- Monitor activity from one dashboard
 - Manage multiple clients and locations
 
-## Product flow
+## How it works
 
 1. A business shares a QR code or tracked link  
 2. The customer scans or clicks  
@@ -42,9 +48,9 @@ It helps businesses collect, track and improve Google reviews through QR codes, 
 ![ReviewBoost Dashboard_2](assets/demo_2.png)
 ![ReviewBoost Dashboard_3](assets/demo_3.png)
 
-## Built by MKDA
+## About MKDA
 
-MKDA Digital Marketing Agency builds digital products, AI automations and marketing systems for businesses that need more visibility and better control over daily operations.
+MKDA Digital Marketing Agency builds digital products, AI automations and marketing systems for businesses that want more visibility and better control over daily operations.
 
 You have the project.  
 We make it visible.
